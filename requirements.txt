@@ -81,8 +81,8 @@ mercurial==5.3.2 \
     --hash=sha256:55e47c67d286102bff8173f038ebffe1f8de704726a680a28e12408af06e18b4 \
     --hash=sha256:81afebc27f55c0d9f0806c612942f5424b89873a2de78f4bde07e3b4ceaafc5e \
     --hash=sha256:fed24cbc314d31b0780309ee324c38d45476f00f555969551badcc2a1d5f1329
-newrelic==2.50.0.39 \
-    --hash=sha256:fddd47a8d048e0c5f42eee511a8aaf35891c996d6c959553c7bec8b3ac74b3cb
+newrelic==5.12.0.140 \
+    --hash=sha256:a3a5228d3d599583ce7ce9402d53f5e03e134a1aa33a27b33b74ef7547f7e1ce
 parsimonious==0.6.2 \
     --hash=sha256:423ae2e16061504418ab7abf0a740e26a781f9bc7674a6cf5e2f11edb4ae8029
 polib==1.0.6 \
