@@ -123,9 +123,9 @@ https://github.com/mathjazz/silme/archive/v0.9.3.zip#egg=silme==0.9.3 \
 # Requirements with sub-dependencies.
 # ==================================================================================
 
-bleach==2.1.1 \
-    --hash=sha256:7a316eac1eef1e98b9813636ebe05878aab1a658d2708047fb00fe2bcbc49f84 \
-    --hash=sha256:760a9368002180fb8a0f4ea48dc6275378e6f311c39d0236d7b904fca1f5ea0d
+bleach==3.1.4 \
+    --hash=sha256:cc8da25076a1fe56c3ac63671e2194458e0c4d9c7becfd52ca251650d517903c \
+    --hash=sha256:e78e426105ac07026ba098f04de8abe9b6e3e98b5befbf89b51a5ef0a4292b03
 
 # Required by bleach
 html5lib==0.999999999 \
