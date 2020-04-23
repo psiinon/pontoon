@@ -46,8 +46,9 @@ django==3.0.5 \
     --hash=sha256:d4666c2edefa38c5ede0ec1655424c56dc47ceb04b6d8d62a7eac09db89545c1
 django-bulk-update==1.1.10 \
     --hash=sha256:ee0b940bfaaafbdc7050887dca0eb923ac217cbb4a03bf2a426e3c8dea165ffe
-django-cors-headers==1.1.0 \
-    --hash=sha256:fcd96e2be47c8eef34c650e007a6d546e19e7ee61041b89edbbbbe7619aa3987
+django-cors-headers==3.2.1 \
+    --hash=sha256:a5960addecc04527ab26617e51b8ed42f0adab4594b24bb0f3c33e2bd3857c3f \
+    --hash=sha256:a785b5f446f6635810776d9f5f5d23e6a2a2f728ea982648370afaf0dfdf2627
 django-csp==3.1 \
     --hash=sha256:9208219c341ddbe371b5fd217ced0c916a5e2f7184bc603415074afcace6b51c
 django-dirtyfields==0.7 \
