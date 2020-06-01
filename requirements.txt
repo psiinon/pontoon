@@ -114,9 +114,9 @@ scandir==1.5 \
 six==1.11.0 \
     --hash=sha256:832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb \
     --hash=sha256:70e8a77beed4562e7f14fe23a786b54f6296e34344c23bc42f07b15018ff98e9
-whitenoise==1.0.6 \
-    --hash=sha256:3e4d80199960959b828951aa24cbfaa36cebed149dcd728c11e855798b15f870 \
-    --hash=sha256:dac9419db3ece27bb53c7433243fc22ed42cf68de9d6c4129390e1d9aefe6310
+whitenoise==5.1.0 \
+    --hash=sha256:60154b976a13901414a25b0273a841145f77eb34a141f9ae032a0ace3e4d5b27 \
+    --hash=sha256:6dd26bfda3af29177d8ab7333a0c7b7642eb615ce83764f4d15a9aecda3201c4
 
 # Dependencies loaded from outside pypi.
 https://github.com/mathjazz/silme/archive/v0.9.3.zip#egg=silme==0.9.3 \
