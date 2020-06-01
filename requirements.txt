@@ -162,8 +162,8 @@ anyjson==0.3.3 \
     --hash=sha256:37812d863c9ad3e35c0734c42e0bf0320ce8c3bed82cd20ad54cb34d158157ba
 
 # ----------------------------------------------------------------------------------
-django-allauth==0.34.0 \
-    --hash=sha256:95a9f7fbebe3e97ce3a541d213fc52492b50dac92f0f91483f58949189e5aa4f
+django-allauth==0.42.0 \
+    --hash=sha256:f17209410b7f87da0a84639fd79d3771b596a6d3fc1a8e48ce50dabc7f441d30
 
 # Required by django-allauth
 python-openid==2.2.5 \
